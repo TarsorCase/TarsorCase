@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-I'm an younior developer and linux fan full time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm an jounior developer and linux fan full time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
    <p align="left">
       <a href="https://github.com/TarsorCase?tab=followers">
