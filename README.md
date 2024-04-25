@@ -1,4 +1,4 @@
-# 🏄‍♂️ TarsorCase
+# <a href="https://www.flaticon.com/free-icons/cat" title="cat icons">Cat icons created by Freepik - Flaticon</a>♂️ TarsorCase
 
 **`Digital Craftsman (Developer)`**
 
